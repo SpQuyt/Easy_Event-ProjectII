@@ -11615,8 +11615,8 @@
 <XPD:REF name="Head">ZGqM0H/8gkeoqwUQIafnKgAA</XPD:REF>
 <XPD:REF name="Tail">GbY3K645LUKB5bRGDH27yAAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="Z2mlwJ/qlEGrn/79TUceXQAA">
-<XPD:ATTR name="Alpha" type="real">0.171379094073535</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">52.773099207835</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">2 : signOut()</XPD:ATTR>
 <XPD:REF name="Model">imQpUDSpfEqH5Rnt/zMgpQAA</XPD:REF>
 <XPD:REF name="HostEdge">jjkFsclw4UWvsM9hjfEClgAA</XPD:REF>
